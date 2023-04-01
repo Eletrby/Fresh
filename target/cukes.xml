@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="44.198">
+    <testcase classname="verify search function" name="Logged User could search for any product" time="43.616">
+        <system-out><![CDATA[And user enter name of product at search box................................passed
+And user click on search....................................................passed
+Then user could see the product displayed...................................passed
+And user select first product...............................................passed
+And user check the price after discount.....................................passed
+And user check the price before discount....................................passed
+And user add three item to cart.............................................passed
+And user can remove item from cart..........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
